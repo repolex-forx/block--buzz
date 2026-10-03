@@ -1229,6 +1229,12 @@
       "git:hexsha": "fad4ff637a56a80e4871b5591a7aca58964ca903",
       "repolex:parseStatus": "pending",
       "git:tagName": "mobile-v0.19.0-rc.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/block/buzz/commit/33f54de2dd27a8f6bce0d359183f5ebe5f2fa9ba",
+      "git:hexsha": "33f54de2dd27a8f6bce0d359183f5ebe5f2fa9ba",
+      "repolex:parseStatus": "metadata_complete",
+      "git:tagName": "main"
     }
   ]
 }
